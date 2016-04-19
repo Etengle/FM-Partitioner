@@ -1,0 +1,17 @@
+--How to Compile
+In this directory, type the command: make
+It will generate the executable file "M_Partitioner" in the same directory.
+If you want to remove it please type the command: make clean
+
+--How to Run
+Format: ./<exe> -c <cells> -n <nets> -o <output file name>
+e.g. ./FM_Partitioner -c ../testcases/p2-3.cells -n ../testcases/p2-3.nets -o p2-3.out
+ 
+--Author
+Name: Yu-Hsiang Cheng, NTHU, Taiwan
+e-mail: zz687@yahoo.com.tw
+facebook: https://www.facebook.com/Slighten.Zheng
+Cell Phone: 0923576510
+
+--Copyright
+Copyright (C) 2016 VLSIPDA.
